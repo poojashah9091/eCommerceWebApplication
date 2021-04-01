@@ -1,0 +1,74 @@
+
+
+{
+  "custid" :1,
+"invoiceOrder_id":1,
+"cust_Name": "abc",
+"cust_Address" : "abc address",
+"cust_PhoneNo" : 8989797798,
+"cust_UserID" : "abc123",
+"cust_Password" :"password123",
+"cust_Email_ID" : "abc123@gmail.com",
+"eMCardNo" : 1,
+"eMartPoints" :100
+
+}
+
+
+
+
+	{
+	  "custid" :2,
+	"invoiceOrder_id":2,
+	"cust_Name": "xyz",
+	"cust_Address" : "xyz address",
+	"cust_PhoneNo" : 8989797798,
+	"cust_UserID" : "xyz123",
+	"cust_Password" :"password123",
+	"cust_Email_ID" : "xyz123@gmail.com",
+	"eMCardNo" : 2,
+	"eMartPoints" :100
+	
+	}
+
+{
+  "custid" :3,
+"invoiceOrder_id":3,
+"cust_Name": "xyz",
+"cust_Address" : "xyz address",
+"cust_PhoneNo" : 8989797798,
+"cust_UserID" : "xyz123",
+"cust_Password" :"password123",
+"cust_Email_ID" : "xyz123@gmail.com",
+"eMCardNo" : 3,
+"eMartPoints" :100
+
+}
+
+{
+  "custid" :4,
+"invoiceOrder_id":4,
+"cust_Name": "xyz",
+"cust_Address" : "xyz address",
+"cust_PhoneNo" : 8989797798,
+"cust_UserID" : "xyz123",
+"cust_Password" :"password123",
+"cust_Email_ID" : "xyz123@gmail.com",
+"eMCardNo" : 4,
+"eMartPoints" :100
+
+}
+
+{
+  "custid" :5,
+"invoiceOrder_id":5,
+"cust_Name": "new",
+"cust_Address" : "new address",
+"cust_PhoneNo" : 8989797798,
+"cust_UserID" : "new123",
+"cust_Password" :"password123",
+"cust_Email_ID" : "new123@gmail.com",
+"eMCardNo" : 5,
+"eMartPoints" :100
+
+}
